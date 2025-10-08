@@ -11,6 +11,7 @@
     <?php
     echo "<p> ¡Hola desde PHP! este párrafo ha sido generado por el servidor</p>";
     echo "<p> La fecha de hoy en el servidor es: " . date('d/m/Y'). "</p>";
+
     ?>
     <p>Más HTML normal después del bloque PHP. </p>
 </body>
